@@ -2,7 +2,7 @@
     "name": "adish/first-packagist",
     "description": "My first composer packagist project",
     "type": "composer-plugin",
-    "license": "Adish Antony",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "adishantony",
